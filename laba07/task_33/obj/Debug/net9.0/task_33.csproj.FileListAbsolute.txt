@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\bin\Debug\net9.0\task_33.exe
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\bin\Debug\net9.0\task_33.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\bin\Debug\net9.0\task_33.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\bin\Debug\net9.0\task_33.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\bin\Debug\net9.0\task_33.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\task_33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\task_33.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\task_33.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\task_33.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\task_33.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\refint\task_33.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\task_33.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\task_33.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_33\obj\Debug\net9.0\ref\task_33.dll

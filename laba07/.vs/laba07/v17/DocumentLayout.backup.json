@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{855CD2D7-CEAF-4F53-AC0F-D87E8C858D28}|task_2.3\\task_2.3.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba07\\task_2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855CD2D7-CEAF-4F53-AC0F-D87E8C858D28}|task_2.3\\task_2.3.csproj|solutionrelative:task_2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9581BD7-5E21-4D9A-97E4-84935B1844B8}|task_3\\task_3.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba07\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9581BD7-5E21-4D9A-97E4-84935B1844B8}|task_3\\task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EEF666-CA17-46BF-BCEF-9335E3F89CA6}|task_2.2\\task_2.2.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba07\\task_2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EEF666-CA17-46BF-BCEF-9335E3F89CA6}|task_2.2\\task_2.2.csproj|solutionrelative:task_2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60471F3D-1088-449F-98D7-43CADC7E021B}|task_2\\task_2.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba07\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60471F3D-1088-449F-98D7-43CADC7E021B}|task_2\\task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD04EE5F-AE6E-490B-97CE-1CFDAC3BD41B}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba07\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD04EE5F-AE6E-490B-97CE-1CFDAC3BD41B}|task_1\\task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_3\\Program.cs",
+              "RelativeDocumentMoniker": "task_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_3\\Program.cs",
+              "RelativeToolTip": "task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:44:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_2.3\\Program.cs",
+              "RelativeDocumentMoniker": "task_2.3\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_2.3\\Program.cs",
+              "RelativeToolTip": "task_2.3\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:47:17.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_2.2\\Program.cs",
+              "RelativeDocumentMoniker": "task_2.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_2.2\\Program.cs",
+              "RelativeToolTip": "task_2.2\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:39:24.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "task_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_2\\Program.cs",
+              "RelativeToolTip": "task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:25:32.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_1\\Program.cs",
+              "RelativeDocumentMoniker": "task_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba07\\task_1\\Program.cs",
+              "RelativeToolTip": "task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:12:56.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

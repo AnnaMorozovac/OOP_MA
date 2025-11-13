@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\bin\Debug\net9.0\task_2.2.exe
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\bin\Debug\net9.0\task_2.2.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\bin\Debug\net9.0\task_2.2.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\bin\Debug\net9.0\task_2.2.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\bin\Debug\net9.0\task_2.2.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\task_2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\task_2.2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\task_2.2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\task_2.2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\task_2.2.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\refint\task_2.2.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\task_2.2.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\task_2.2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba07\task_2.2\obj\Debug\net9.0\ref\task_2.2.dll
