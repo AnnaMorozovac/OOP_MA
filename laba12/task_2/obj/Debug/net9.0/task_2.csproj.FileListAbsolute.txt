@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\bin\Debug\net9.0\task_2.exe
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\bin\Debug\net9.0\task_2.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\bin\Debug\net9.0\task_2.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\bin\Debug\net9.0\task_2.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\bin\Debug\net9.0\task_2.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\task_2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\task_2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\task_2.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\refint\task_2.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\task_2.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\task_2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba12\task_2\obj\Debug\net9.0\ref\task_2.dll
