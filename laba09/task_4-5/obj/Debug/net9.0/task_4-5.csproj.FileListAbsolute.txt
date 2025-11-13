@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\bin\Debug\net9.0\task_4-5.exe
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\bin\Debug\net9.0\task_4-5.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\bin\Debug\net9.0\task_4-5.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\bin\Debug\net9.0\task_4-5.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\bin\Debug\net9.0\task_4-5.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\task_4-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\task_4-5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\task_4-5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\task_4-5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\task_4-5.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\refint\task_4-5.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\task_4-5.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\task_4-5.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba09\task_4-5\obj\Debug\net9.0\ref\task_4-5.dll
