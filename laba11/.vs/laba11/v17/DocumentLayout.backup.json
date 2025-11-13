@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7973B9D6-B1C5-8A0B-1EC6-FC6879E34202}|P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba11\\p02_blackboxinteger\\blackboxintegertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7973B9D6-B1C5-8A0B-1EC6-FC6879E34202}|P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj|solutionrelative:p02_blackboxinteger\\blackboxintegertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D69327B-DF22-4291-858F-DB5A7083D2C3}|task_5\\task_5.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba11\\task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D69327B-DF22-4291-858F-DB5A7083D2C3}|task_5\\task_5.csproj|solutionrelative:task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07839310-262C-41FE-9751-C39121EFBB85}|task_3\\task_3.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba11\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07839310-262C-41FE-9751-C39121EFBB85}|task_3\\task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7973B9D6-B1C5-8A0B-1EC6-FC6879E34202}|P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba11\\p02_blackboxinteger\\blackboxinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7973B9D6-B1C5-8A0B-1EC6-FC6879E34202}|P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj|solutionrelative:p02_blackboxinteger\\blackboxinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADE745B-1E9C-4FEF-892D-EFD56959FEBB}|task_4\\task_4.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba11\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADE745B-1E9C-4FEF-892D-EFD56959FEBB}|task_4\\task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F20EEC-849D-8EC7-8464-C6556F7CA464}|P01_HarvestingFields\\P01_HarvestingFields.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba11\\p01_harvestingfields\\harvestingfieldstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F20EEC-849D-8EC7-8464-C6556F7CA464}|P01_HarvestingFields\\P01_HarvestingFields.csproj|solutionrelative:p01_harvestingfields\\harvestingfieldstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlackBoxInteger.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "RelativeDocumentMoniker": "P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "RelativeToolTip": "P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:35:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\task_5\\Program.cs",
+              "RelativeDocumentMoniker": "task_5\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\task_5\\Program.cs",
+              "RelativeToolTip": "task_5\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:57:18.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\task_4\\Program.cs",
+              "RelativeDocumentMoniker": "task_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\task_4\\Program.cs",
+              "RelativeToolTip": "task_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:40:03.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlackBoxIntegerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "RelativeDocumentMoniker": "P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "RelativeToolTip": "P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:24:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\task_3\\Program.cs",
+              "RelativeDocumentMoniker": "task_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\task_3\\Program.cs",
+              "RelativeToolTip": "task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:54:51.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HarvestingFieldsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\P01_HarvestingFields\\HarvestingFieldsTest.cs",
+              "RelativeDocumentMoniker": "P01_HarvestingFields\\HarvestingFieldsTest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba11\\P01_HarvestingFields\\HarvestingFieldsTest.cs",
+              "RelativeToolTip": "P01_HarvestingFields\\HarvestingFieldsTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:07:49.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
