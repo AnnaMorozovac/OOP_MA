@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\bin\Debug\net8.0\LineNumbers.exe
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\bin\Debug\net8.0\LineNumbers.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\bin\Debug\net8.0\LineNumbers.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\bin\Debug\net8.0\LineNumbers.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\bin\Debug\net8.0\LineNumbers.pdb
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\LineNumbers.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\LineNumbers.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\refint\LineNumbers.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\LineNumbers.pdb
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\LineNumbers.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\LineNumbers\obj\Debug\net8.0\ref\LineNumbers.dll

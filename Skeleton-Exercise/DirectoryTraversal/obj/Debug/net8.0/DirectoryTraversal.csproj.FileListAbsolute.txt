@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.exe
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net8.0\DirectoryTraversal.pdb
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\refint\DirectoryTraversal.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.pdb
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\DirectoryTraversal.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net8.0\ref\DirectoryTraversal.dll

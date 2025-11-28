@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.exe
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.pdb
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\refint\ZipAndExtract.dll
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.pdb
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\Skeleton-Exercise\ZipAndExtract\obj\Debug\net8.0\ref\ZipAndExtract.dll

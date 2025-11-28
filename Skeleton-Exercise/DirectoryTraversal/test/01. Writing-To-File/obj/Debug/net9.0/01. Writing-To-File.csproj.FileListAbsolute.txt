@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\bin\Debug\net9.0\01. Writing-To-File.exe
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\bin\Debug\net9.0\01. Writing-To-File.deps.json
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\bin\Debug\net9.0\01. Writing-To-File.runtimeconfig.json
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\bin\Debug\net9.0\01. Writing-To-File.dll
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\bin\Debug\net9.0\01. Writing-To-File.pdb
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\01. Writing-To-File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\01. Writing-To-File.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\01. Writing-To-File.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\01. Writing-To-File.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\01. Writing-To-File.dll
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\refint\01. Writing-To-File.dll
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\01. Writing-To-File.pdb
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\01. Writing-To-File.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\test\01. Writing-To-File\obj\Debug\net9.0\ref\01. Writing-To-File.dll
