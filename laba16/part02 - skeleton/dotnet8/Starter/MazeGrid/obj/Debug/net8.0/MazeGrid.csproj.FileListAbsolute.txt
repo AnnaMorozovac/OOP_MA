@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\bin\Debug\net8.0\MazeGrid.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\bin\Debug\net8.0\MazeGrid.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\bin\Debug\net8.0\MazeGrid.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\MazeGrid.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\MazeGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\MazeGrid.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\MazeGrid.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\MazeGrid.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\MazeGrid.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\refint\MazeGrid.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\MazeGrid.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGrid\obj\Debug\net8.0\ref\MazeGrid.dll

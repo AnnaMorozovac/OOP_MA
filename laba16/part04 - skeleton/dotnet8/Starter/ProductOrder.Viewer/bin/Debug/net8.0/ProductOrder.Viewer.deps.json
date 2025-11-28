@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductOrder.Viewer/1.0.0": {
+        "dependencies": {
+          "ProductOrder.Library": "1.0.0"
+        },
+        "runtime": {
+          "ProductOrder.Viewer.dll": {}
+        }
+      },
+      "ProductOrder.Library/1.0.0": {
+        "runtime": {
+          "ProductOrder.Library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductOrder.Viewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductOrder.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

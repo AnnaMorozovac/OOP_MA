@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\bin\Debug\net8.0\ProductOrder.Library.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\bin\Debug\net8.0\ProductOrder.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\bin\Debug\net8.0\ProductOrder.Library.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\ProductOrder.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\ProductOrder.Library.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\ProductOrder.Library.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\ProductOrder.Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\ProductOrder.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\refint\ProductOrder.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\ProductOrder.Library.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part04 - skeleton\dotnet8\Starter\ProductOrder.Library\obj\Debug\net8.0\ref\ProductOrder.Library.dll

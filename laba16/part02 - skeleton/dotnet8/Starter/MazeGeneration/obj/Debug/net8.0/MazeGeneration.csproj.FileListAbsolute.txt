@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\bin\Debug\net8.0\MazeGeneration.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\bin\Debug\net8.0\MazeGeneration.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\bin\Debug\net8.0\MazeGeneration.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\bin\Debug\net8.0\Algorithms.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\bin\Debug\net8.0\MazeGrid.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\bin\Debug\net8.0\Algorithms.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\bin\Debug\net8.0\MazeGrid.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGeneration.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGeneration.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGeneration.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGene.4029384B.Up2Date
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGeneration.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\refint\MazeGeneration.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\MazeGeneration.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\MazeGeneration\obj\Debug\net8.0\ref\MazeGeneration.dll

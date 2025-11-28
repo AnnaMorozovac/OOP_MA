@@ -1,0 +1,163 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "System.Text.Json/4.7.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "TaskAwait.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "System.Text.Json": "4.7.2",
+          "TaskAwait.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskAwait.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskAwait.Library.dll": {}
+        }
+      },
+      "TaskAwait.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TaskAwait.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskAwait.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Text.Json/4.7.2": {
+      "sha512": "TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "type": "package",
+      "path": "system.text.json/4.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/netcoreapp3.0/System.Text.Json.dll",
+        "lib/netcoreapp3.0/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.4.7.2.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "TaskAwait.Library/1.0.0": {
+      "type": "project",
+      "path": "../TaskAwait.Library/TaskAwait.Library.csproj",
+      "msbuildProject": "../TaskAwait.Library/TaskAwait.Library.csproj"
+    },
+    "TaskAwait.Shared/1.0.0": {
+      "type": "project",
+      "path": "../TaskAwait.Shared/TaskAwait.Shared.csproj",
+      "msbuildProject": "../TaskAwait.Shared/TaskAwait.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TaskAwait.Library >= 1.0.0",
+      "TaskAwait.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba16\\part03 - skeleton\\dotnet8\\Starter\\Parallel.UI.Web\\Parallel.UI.Web.csproj",
+      "projectName": "Parallel.UI.Web",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba16\\part03 - skeleton\\dotnet8\\Starter\\Parallel.UI.Web\\Parallel.UI.Web.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba16\\part03 - skeleton\\dotnet8\\Starter\\Parallel.UI.Web\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba16\\part03 - skeleton\\dotnet8\\Starter\\TaskAwait.Library\\TaskAwait.Library.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba16\\part03 - skeleton\\dotnet8\\Starter\\TaskAwait.Library\\TaskAwait.Library.csproj"
+            },
+            "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba16\\part03 - skeleton\\dotnet8\\Starter\\TaskAwait.Shared\\TaskAwait.Shared.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba16\\part03 - skeleton\\dotnet8\\Starter\\TaskAwait.Shared\\TaskAwait.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

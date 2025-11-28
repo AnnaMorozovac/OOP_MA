@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\bin\Debug\net8.0\TaskAwait.Library.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\bin\Debug\net8.0\TaskAwait.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\bin\Debug\net8.0\TaskAwait.Library.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\bin\Debug\net8.0\TaskAwait.Shared.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\bin\Debug\net8.0\TaskAwait.Shared.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwait.Library.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwait.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwait.Library.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwait.Library.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwait.Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwai.E8CB6625.Up2Date
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwait.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\refint\TaskAwait.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\TaskAwait.Library.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Library\obj\Debug\net8.0\ref\TaskAwait.Library.dll

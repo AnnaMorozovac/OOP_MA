@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\bin\Debug\net8.0\Algorithms.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\bin\Debug\net8.0\MazeGrid.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\bin\Debug\net8.0\MazeGrid.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.csproj.Up2Date
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part02 - skeleton\dotnet8\Starter\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\bin\Debug\net8.0\TaskAwait.Shared.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\bin\Debug\net8.0\TaskAwait.Shared.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\bin\Debug\net8.0\TaskAwait.Shared.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\refint\TaskAwait.Shared.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\TaskAwait.Shared.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part03 - skeleton\dotnet8\Starter\TaskAwait.Shared\obj\Debug\net8.0\ref\TaskAwait.Shared.dll

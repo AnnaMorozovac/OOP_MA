@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\bin\Debug\net8.0\DataProcessor.Library.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\bin\Debug\net8.0\DataProcessor.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\bin\Debug\net8.0\DataProcessor.Library.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\DataProcessor.Library.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\DataProcessor.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\DataProcessor.Library.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\DataProcessor.Library.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\DataProcessor.Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\DataProcessor.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\refint\DataProcessor.Library.dll
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\DataProcessor.Library.pdb
+C:\Users\Administrator\Desktop\univ\OOP\laba16\part01 - skeleton\dotnet8\Starter\DataProcessor.Library\obj\Debug\net8.0\ref\DataProcessor.Library.dll
