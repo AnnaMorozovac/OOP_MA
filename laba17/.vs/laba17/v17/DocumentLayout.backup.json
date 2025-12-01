@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba17\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba17\\task_1\\data\\models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba17\\task_1\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba17\\task_1\\data\\models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba17\\task_1\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2666BB3-B287-4E27-AD61-48C021F8EAD0}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF2EB2-AE69-4DB6-8336-4E314F595E67}|task_2\\task_2.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba17\\task_2\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF2EB2-AE69-4DB6-8336-4E314F595E67}|task_2\\task_2.csproj|solutionrelative:task_2\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF2EB2-AE69-4DB6-8336-4E314F595E67}|task_2\\task_2.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba17\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF2EB2-AE69-4DB6-8336-4E314F595E67}|task_2\\task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientMedicament.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\Models\\PatientMedicament.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\PatientMedicament.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\Models\\PatientMedicament.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\PatientMedicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:39:24.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\Models\\Patient.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\Patient.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:36:11.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diagnose.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\Models\\Diagnose.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\Diagnose.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\Models\\Diagnose.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\Diagnose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:36:08.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_2\\Data\\SalesContext.cs",
+              "RelativeDocumentMoniker": "task_2\\Data\\SalesContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_2\\Data\\SalesContext.cs",
+              "RelativeToolTip": "task_2\\Data\\SalesContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:12:18.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\HospitalContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Data\\HospitalContext.cs",
+              "RelativeToolTip": "task_1\\Data\\HospitalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:12:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Program.cs",
+              "RelativeDocumentMoniker": "task_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_1\\Program.cs*",
+              "RelativeToolTip": "task_1\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:05:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "task_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba17\\task_2\\Program.cs",
+              "RelativeToolTip": "task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:25:32.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
