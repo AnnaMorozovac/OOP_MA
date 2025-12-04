@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66954F21-C8ED-47C4-9DA5-CDEE4957DB2A}|PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.app\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66954F21-C8ED-47C4-9DA5-CDEE4957DB2A}|PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj|solutionrelative:po1_billspaymentsystem.app\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\billspaymentsystemextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\billspaymentsystemextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|solutionrelative:po1_billspaymentsystem.data.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data.models\\paymentmethodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|solutionrelative:po1_billspaymentsystem.data.models\\paymentmethodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data.models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|solutionrelative:po1_billspaymentsystem.data.models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data.models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|solutionrelative:po1_billspaymentsystem.data.models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data.models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|solutionrelative:po1_billspaymentsystem.data.models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\billspaymentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\billspaymentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\entityconfig\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\entityconfig\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\entityconfig\\paymentmethodconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\entityconfig\\paymentmethodconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\entityconfig\\creditcardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\entityconfig\\creditcardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\entityconfig\\bankaccountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\entityconfig\\bankaccountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data\\po1_billspaymentsystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D266AAAD-2F58-4C7A-BCF7-9EFE6B84BC64}|PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj|solutionrelative:po1_billspaymentsystem.data\\po1_billspaymentsystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.data.models\\po1_billspaymentsystem.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44FDADFA-0A31-4CD1-925D-A96C23FB59C8}|PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj|solutionrelative:po1_billspaymentsystem.data.models\\po1_billspaymentsystem.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\Migrations\\20251203201204_BillsPaymentInitialSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PO1_BillsPaymentSystem.Data\\Migrations\\20251203201204_BillsPaymentInitialSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66954F21-C8ED-47C4-9DA5-CDEE4957DB2A}|PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\po1_billspaymentsystem\\po1_billspaymentsystem.app\\po1_billspaymentsystem.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66954F21-C8ED-47C4-9DA5-CDEE4957DB2A}|PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj|solutionrelative:po1_billspaymentsystem.app\\po1_billspaymentsystem.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillsPaymentSystemExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\BillsPaymentSystemExtensions.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\BillsPaymentSystemExtensions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\BillsPaymentSystemExtensions.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\BillsPaymentSystemExtensions.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:38:12.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.App\\StartUp.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.App\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.App\\StartUp.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.App\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:42:45.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data.Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\BankAccount.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data.Models\\BankAccount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:52:30.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\CreditCard.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data.Models\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\CreditCard.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data.Models\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:53:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data.Models\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\PaymentMethod.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data.Models\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:40:46.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentMethodType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\PaymentMethodType.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data.Models\\PaymentMethodType.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\PaymentMethodType.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data.Models\\PaymentMethodType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:53:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\User.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data.Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\User.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data.Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:47:59.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\Configuration.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:49:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillsPaymentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\BillsPaymentSystemContext.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\BillsPaymentSystemContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\BillsPaymentSystemContext.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\BillsPaymentSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:21:10.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\EntityConfig\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\UserConfiguration.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\EntityConfig\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:49:14.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentMethodConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\PaymentMethodConfiguration.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\EntityConfig\\PaymentMethodConfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\PaymentMethodConfiguration.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\EntityConfig\\PaymentMethodConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:49:17.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreditCardConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\CreditCardConfiguration.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\EntityConfig\\CreditCardConfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\CreditCardConfiguration.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\EntityConfig\\CreditCardConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:06:21.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BankAccountConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\BankAccountConfiguration.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\EntityConfig\\BankAccountConfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\EntityConfig\\BankAccountConfiguration.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\EntityConfig\\BankAccountConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:51:12.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PO1_BillsPaymentSystem.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\PO1_BillsPaymentSystem.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T20:00:35.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PO1_BillsPaymentSystem.Data.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data.Models\\PO1_BillsPaymentSystem.Data.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T19:37:46.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251203201204_BillsPaymentInitialSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\Migrations\\20251203201204_BillsPaymentInitialSetup.cs",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.Data\\Migrations\\20251203201204_BillsPaymentInitialSetup.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.Data\\Migrations\\20251203201204_BillsPaymentInitialSetup.cs",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.Data\\Migrations\\20251203201204_BillsPaymentInitialSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:12:04.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PO1_BillsPaymentSystem.App.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj",
+              "RelativeDocumentMoniker": "PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\PO1_BillsPaymentSystem\\PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj",
+              "RelativeToolTip": "PO1_BillsPaymentSystem.App\\PO1_BillsPaymentSystem.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T20:05:32.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

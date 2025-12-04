@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\bin\Debug\net9.0\PO1_BillsPaymentSystem.Data.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\bin\Debug\net9.0\PO1_BillsPaymentSystem.Data.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\bin\Debug\net9.0\PO1_BillsPaymentSystem.Data.dll
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\bin\Debug\net9.0\PO1_BillsPaymentSystem.Data.pdb
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\bin\Debug\net9.0\PO1_BillsPaymentSystem.Data.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\bin\Debug\net9.0\PO1_BillsPaymentSystem.Data.Models.pdb
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_Bill.D08130EB.Up2Date
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.dll
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\refint\PO1_BillsPaymentSystem.Data.dll
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.pdb
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\PO1_BillsPaymentSystem.Data.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\PO1_BillsPaymentSystem\PO1_BillsPaymentSystem.Data\obj\Debug\net9.0\ref\PO1_BillsPaymentSystem.Data.dll
