@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\bin\Debug\net9.0\P03_FootballBetting.Models.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\bin\Debug\net9.0\P03_FootballBetting.Models.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\bin\Debug\net9.0\P03_FootballBetting.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\bin\Debug\net9.0\P03_FootballBetting.Models.pdb
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\refint\P03_FootballBetting.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.pdb
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\P03_FootballBetting.Models.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Models\obj\Debug\net9.0\ref\P03_FootballBetting.Models.dll

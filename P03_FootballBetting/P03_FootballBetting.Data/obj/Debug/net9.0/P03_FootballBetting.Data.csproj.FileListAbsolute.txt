@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\net9.0\P03_FootballBetting.Data.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\net9.0\P03_FootballBetting.Data.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\net9.0\P03_FootballBetting.Data.dll
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\net9.0\P03_FootballBetting.Data.pdb
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\net9.0\P03_FootballBetting.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\net9.0\P03_FootballBetting.Models.pdb
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_Foot.40630218.Up2Date
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.dll
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\refint\P03_FootballBetting.Data.dll
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.pdb
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\P03_FootballBetting.Data.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\net9.0\ref\P03_FootballBetting.Data.dll

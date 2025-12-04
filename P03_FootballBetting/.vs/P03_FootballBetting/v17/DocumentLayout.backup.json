@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|solutionrelative:p03_footballbetting.models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|solutionrelative:p03_footballbetting.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF899E-2758-40D4-BF8C-9E5382857AF6}|P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BF899E-2758-40D4-BF8C-9E5382857AF6}|P03_FootballBetting.Data\\P03_FootballBetting.Data.csproj|solutionrelative:p03_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|solutionrelative:p03_footballbetting.models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|solutionrelative:p03_footballbetting.models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|solutionrelative:p03_footballbetting.models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750BF3C2-6077-4948-B2C6-AFCD7A8A3BED}|P03_FootballBetting.Startup\\P03_FootballBetting.Startup.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.startup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750BF3C2-6077-4948-B2C6-AFCD7A8A3BED}|P03_FootballBetting.Startup\\P03_FootballBetting.Startup.csproj|solutionrelative:p03_footballbetting.startup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\p03_footballbetting\\p03_footballbetting.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5449C4-84F4-4312-BFD0-8A8B00DB389D}|P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj|solutionrelative:p03_footballbetting.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Team.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Team.cs",
+              "RelativeToolTip": "P03_FootballBetting.Models\\Team.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T07:11:24.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Country.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Country.cs",
+              "RelativeToolTip": "P03_FootballBetting.Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T07:10:58.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Color.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Models\\Color.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Color.cs",
+              "RelativeToolTip": "P03_FootballBetting.Models\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T07:10:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootballBettingContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Data\\FootballBettingContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeToolTip": "P03_FootballBetting.Data\\FootballBettingContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:49:53.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Game.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Game.cs",
+              "RelativeToolTip": "P03_FootballBetting.Models\\Game.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:49:39.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\User.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\User.cs",
+              "RelativeToolTip": "P03_FootballBetting.Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:49:25.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Bet.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Models\\Bet.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Models\\Bet.cs",
+              "RelativeToolTip": "P03_FootballBetting.Models\\Bet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:49:13.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Startup\\Program.cs",
+              "RelativeDocumentMoniker": "P03_FootballBetting.Startup\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\P03_FootballBetting\\P03_FootballBetting.Startup\\Program.cs",
+              "RelativeToolTip": "P03_FootballBetting.Startup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:06:21.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
