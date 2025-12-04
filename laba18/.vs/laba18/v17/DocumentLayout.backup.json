@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\data\\studentsystemcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\studentsystemcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\data\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\data\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\data\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|c:\\users\\administrator\\desktop\\univ\\oop\\laba18\\task_1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF9927F-7A47-4F92-A57E-13702CB4F543}|task_1\\task_1.csproj|solutionrelative:task_1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentSystemContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\StudentSystemContextExtensions.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\StudentSystemContextExtensions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\StudentSystemContextExtensions.cs",
+              "RelativeToolTip": "task_1\\Data\\StudentSystemContextExtensions.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv24AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:43:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Student.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:10:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Homework.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\Homework.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Homework.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\Homework.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:13:48.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:12:50.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:35:02.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Program.cs",
+              "RelativeDocumentMoniker": "task_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Program.cs",
+              "RelativeToolTip": "task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:15:59.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\StudentSystemContext.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\StudentSystemContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\StudentSystemContext.cs",
+              "RelativeToolTip": "task_1\\Data\\StudentSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:00:52.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "task_1\\Data\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\univ\\OOP\\laba18\\task_1\\Data\\Models\\Resource.cs",
+              "RelativeToolTip": "task_1\\Data\\Models\\Resource.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:14:08.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
