@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\bin\Debug\net9.0\BookShop.Models.deps.json
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\bin\Debug\net9.0\BookShop.Models.runtimeconfig.json
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\bin\Debug\net9.0\BookShop.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\bin\Debug\net9.0\BookShop.Models.pdb
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\refint\BookShop.Models.dll
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.pdb
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\BookShop.Models.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\univ\OOP\BookShop\BookShop.Models\obj\Debug\net9.0\ref\BookShop.Models.dll
